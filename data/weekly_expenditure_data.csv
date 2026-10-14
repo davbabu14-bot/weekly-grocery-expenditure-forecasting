@@ -1,0 +1,9 @@
+Week,week_start,week_end,grocery_expenditure_inr,number_of_purchases,notes
+1,2026-08-01,2026-08-07,1765,5,Regular weekly grocery shopping
+2,2026-08-08,2026-08-14,2140,5,Restocked dairy and vegetables
+3,2026-08-15,2026-08-21,1890,6,Typical household grocery purchases
+4,2026-08-22,2026-08-28,2675,6,Higher spending due to pantry staples
+5,2026-08-29,2026-09-04,2310,6,Included monthly staples purchase
+6,2026-09-05,2026-09-11,1985,6,Moderate grocery spending
+7,2026-09-12,2026-09-18,2490,5,Extra fruit and household food items
+8,2026-09-19,2026-09-25,2075,6,Regular grocery shopping
